@@ -5,4 +5,4 @@ def find_element_index(array, value_to_find)
     count += 1
   end
 end
-array=[6,5,4,3,2,1]
+find_element_indexarray([6,5,4,3,2,1],2)
